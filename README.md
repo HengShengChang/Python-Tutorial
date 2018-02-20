@@ -4,28 +4,28 @@
 This repository is a Python intrudction for Python beginners who want to go through Python in a structured way.
 
 ## Recommended Prereqisite
-- Install Python 3 through [Anaconda](https://www.anaconda.com/download), which include every packages/modules you need in this tutorial, if not otherwise specified.
+- Install Python 3 through [Anaconda](https://www.anaconda.com/download), which includes every packages/modules you need in this tutorial, if not otherwise specified.
 - Or at least download [Python 3](https://www.python.org/downloads/) and [jupyter](http://jupyter.readthedocs.io/en/latest/install.html). You can download other needed packages/modules later.
 
 ## Download
-1. move to your prefered directory
+1. Move to your prefered directory.
 ```
 $ cd dir
 ```
 
-Note: Replace `dir` with your actual prefered directory path
+Note: Replace `dir` with your actual prefered directory path.
 
-2. clone this repository, which will create a new folder, with the name: Python-Tutorial, under your prefered directory
+2. Clone this repository, which will create a new folder, with the name: Python-Tutorial, under your prefered directory.
 ```
 $ git clone https://github.com/HengShengChang/Python-Tutorial.git
 ```
 
-3. Run Jupyter
+3. Run jupyter.
 ```
 $ jupyter notebook
 ```
 
-4. Enojoy your journey with Python
+4. Enojoy your journey with Python!
 
 
 ## References:
